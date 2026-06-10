@@ -1,0 +1,18 @@
+Web development assignment.
+academy-website/
+├── index.html
+├── about.html
+├── courses.html
+├── contact.html
+├── css/
+│   └── style.css
+├── images/                  (download 8–10 images and put them here)
+│   ├── banner.jpg
+│   ├── webdev.jpg
+│   ├── data.jpg
+│   ├── ux.jpg
+│   ├── ai.jpg
+│   ├── cyber.jpg
+│   ├── campus.jpg
+│   └── students.jpg
+└── README.txt
